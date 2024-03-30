@@ -13,12 +13,12 @@ ver=$VERSION_ID
 
 #detail nama perusahaan
 country=PH
-state=NCR
-locality=QuezonCity
-organization=Polaris
+state=CALABARZON
+locality=QuezonProvince
+organization=RakFam
 organizationalunit=VPN
-commonname=Gl33ch3r
-email=jconadera@gmail.com
+commonname=JKimDevs
+email=emailme@jkimdevs.email
 
 # simple password minimal
 wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/password"
